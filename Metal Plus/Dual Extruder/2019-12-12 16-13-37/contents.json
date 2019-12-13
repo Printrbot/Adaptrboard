@@ -1,0 +1,9 @@
+{
+  "to": "C:\\Users\\Philip Mally\\Documents\\Marlin-Gui\\Printrboard\\Marlin\\.mct.bak\\origin\\bugfix-2.0.x\\2019-12-12 16-13-37",
+  "root": "C:/Users/Philip Mally/Documents/Marlin-Gui/Printrboard/Marlin",
+  "files": [
+    "C:\\Users\\Philip Mally\\Documents\\Marlin-Gui\\Printrboard\\Marlin\\Marlin\\Configuration.h",
+    "C:\\Users\\Philip Mally\\Documents\\Marlin-Gui\\Printrboard\\Marlin\\Marlin\\Configuration_adv.h"
+  ],
+  "message": "Metal Pro Dual Extruder SKR 1.3 - TMC2130 XYZ A4988 E1 E2"
+}
