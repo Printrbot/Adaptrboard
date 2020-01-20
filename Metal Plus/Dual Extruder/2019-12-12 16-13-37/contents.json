@@ -1,9 +1,0 @@
-{
-  "to": "C:\\Users\\Zak\\Documents\\Marlin-Config\\Printrbot\\Marlin\\.mct.bak\\tags\\2.0.0\\2019-12-12 19-05-15",
-  "root": "C:/Users/Zak/Documents/Marlin-Config/Printrbot/Marlin",
-  "files": [
-    "C:\\Users\\Zak\\Documents\\Marlin-Config\\Printrbot\\Marlin\\Marlin\\Configuration.h",
-    "C:\\Users\\Zak\\Documents\\Marlin-Config\\Printrbot\\Marlin\\Marlin\\Configuration_adv.h"
-  ],
-  "message": "serial port fixed\n"
-}
