@@ -1,5 +1,13 @@
-# SKR
-Marlin firmware for 32bit SKR control boards
+# Printrbot SKR Adaptrboard 
+#### 32bit Motion Controller adapter kit
+
+Plug and Play controller wiring harness 
+	 Replacement kit for Printrboard
+	 ![Adaptrboard](/images/PCBs.png)
+	 
+
+
+	Marlin firmware for 32bit SKR control boards
 
 #### Precompiled Firmware- Semi Tested - Download Repo as Zip file
   Metal Plus - Single Extruder - TMC2208
