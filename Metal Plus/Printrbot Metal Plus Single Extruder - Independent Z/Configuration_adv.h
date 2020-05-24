@@ -749,7 +749,7 @@
 #define DEFAULT_STEPPER_DEACTIVE_TIME 240
 #define DISABLE_INACTIVE_X true
 #define DISABLE_INACTIVE_Y true
-#define DISABLE_INACTIVE_Z false // Set to false if the nozzle will fall down on your printed part when print has finished.
+#define DISABLE_INACTIVE_Z true // Set to false if the nozzle will fall down on your printed part when print has finished.
 #define DISABLE_INACTIVE_E true
 
 #define DEFAULT_MINIMUMFEEDRATE       1       // minimum feedrate
@@ -2189,7 +2189,7 @@
    * The default SW SPI pins are defined the respective pins files,
    * but you can override or define them here.
    */
-  #define TMC_USE_SW_SPI
+  //#define TMC_USE_SW_SPI
   //#define TMC_SW_MOSI       P4_28
   //#define TMC_SW_MISO       P0_05
   //#define TMC_SW_SCK        P0_04
