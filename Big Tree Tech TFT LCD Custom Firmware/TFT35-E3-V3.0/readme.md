@@ -1,1 +1,0 @@
-Customized TFT LCD firmware for Printrbot Copy these these files to root directory of SD card
